@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "pg1232")(type "KiCad")(uri "${KIPRJMOD}/choc/pg1232.pretty")(options "")(descr ""))
+  (lib (name "pg1350")(type "KiCad")(uri "${KIPRJMOD}/choc/pg1350.pretty")(options "")(descr ""))
+)
